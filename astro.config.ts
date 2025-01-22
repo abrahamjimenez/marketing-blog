@@ -87,4 +87,8 @@ export default defineConfig({
       },
     },
   },
+  
+  redirects: {
+    "/": "/blog"
+  }
 });
