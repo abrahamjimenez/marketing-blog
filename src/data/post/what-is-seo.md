@@ -2,7 +2,7 @@
 publishDate: 2025-01-22T14:18:00Z
 author: Abraham Jimenez
 title: What is SEO?
-excerpt: SEO stands for "Search Engine Optimization" and helps search engines understand your content. It helps users find your site and make a decision to visit your site.
+excerpt: SEO stands for "Search Engine Optimization" and helps search engines understand your content. It helps users find your site and make a decision to visit you.
 image: https://images.unsplash.com/photo-1686061594183-8c864f508b00?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 tags:
   - blog
