@@ -2,7 +2,7 @@
 publishDate: 2025-01-27T15:34:00Z
 author: Abraham Jimenez
 title: ChatGPT vs. DeepSeek AI. What's the difference?
-excerpt: The success behind DeepSeek and why investors are furious.
+excerpt: What is DeepSeek? How does it compare to ChatGPT? The success behind DeepSeek and why investors are furious.
 image: https://images.unsplash.com/photo-1679403766665-67ed6cd2df30?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 tags:
   - ai
