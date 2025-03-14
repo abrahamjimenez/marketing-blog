@@ -21,7 +21,7 @@ SEO is important because it helps improve your websites visibility on search eng
 ## Why it matters
 
 Having good SEO can increase the organic traffic you earn in a website. This is beneficial because you will gain more 
-clicks without paying for [Google Ads.](what-are-google-ads.md)
+clicks without paying for [Google Ads.](what-are-google-ads)
 
 Believe it or not, websites on the first page of Google are perceived as more trustworthy compared to other websites at
 lower search rankings.

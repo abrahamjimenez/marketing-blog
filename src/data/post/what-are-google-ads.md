@@ -24,5 +24,5 @@ someone clicks on your ad.
 2. **Create Ads** - Design text, image, or video ads targeting potential customers.
 3. **Set a Budget and Bidding Strategy** - Decide on how much you are willing to pay per click.
 4. **Ad Auction & Ranking** - Google decides which ads show based on the bid amount, ad relevance, and quality score.
-5. **Measure Performance** - [You track clicks](what-is-google-analytics.md), impressions, conversions, and return on investment (ROI)
+5. **Measure Performance** - [You track clicks](what-is-google-analytics), impressions, conversions, and return on investment (ROI)
 
