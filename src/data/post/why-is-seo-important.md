@@ -26,5 +26,5 @@ clicks without paying for [Google Ads.](what-are-google-ads.md)
 Believe it or not, websites on the first page of Google are perceived as more trustworthy compared to other websites at
 lower search rankings.
 
-Most websites with good SEO have great User Experience (UX). SEO isn't just keywords, but optimizing site speed, mobile-friendly
-navigation, clean structure, and great accesibility features.
+Most websites with good SEO have great User Experience (UX). SEO isn't just keywords, but [optimizing site speed](how-to-optimize-your-website), mobile-friendly
+navigation, clean structure, and great accessibility features.
