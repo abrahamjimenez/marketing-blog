@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db1d1ffc-957c-43f1-ada9-144ce30b478b" name="Changes" comment="Add built in dependencies">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/MKT-353-Blog.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/prettier.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="db1d1ffc-957c-43f1-ada9-144ce30b478b" name="Changes" comment="Add .idea files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,6 +85,7 @@
       <workItem from="1742706891533" duration="28000" />
       <workItem from="1742707727627" duration="45000" />
       <workItem from="1742707786394" duration="9000" />
+      <workItem from="1742839252027" duration="266000" />
     </task>
     <task id="LOCAL-00001" summary="Add built in dependencies">
       <option name="closed" value="true" />
@@ -104,7 +95,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742706264074</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add .idea files">
+      <option name="closed" value="true" />
+      <created>1742839360137</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742839360137</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +111,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add built in dependencies" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add built in dependencies" />
+    <MESSAGE value="Add .idea files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add .idea files" />
   </component>
 </project>
