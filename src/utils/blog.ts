@@ -126,7 +126,7 @@ export const blogPostRobots = APP_BLOG.post.robots;
 export const blogCategoryRobots = APP_BLOG.category.robots;
 export const blogTagRobots = APP_BLOG.tag.robots;
 
-export const blogPostsPerPage = APP_BLOG?.postsPerPage;
+export const blogPostsPerPage = 12;
 
 /** */
 export const fetchPosts = async (): Promise<Array<Post>> => {
